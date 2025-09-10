@@ -17,13 +17,13 @@ O projeto foi feito para treinar **React, hooks e componentização**.
 
 ## ▶️ Como executar localmente
 
-Clone o repositório:
-git clone https://github.com/Ever-Call/CP-WebDev.git
-cd checkpoint
-Instale as dependências:
-npm install
-Execute o servidor de desenvolvimento:
-npm run dev
+Clone o repositório:\
+git clone https://github.com/Ever-Call/CP-WebDev.git \
+cd checkpoint\
+Instale as dependências:\
+npm install\
+Execute o servidor de desenvolvimento:\
+npm run dev\
 Depois abra no navegador o link que aparece
 
 ## Feito por:
