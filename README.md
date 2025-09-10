@@ -27,5 +27,5 @@ npm run dev\
 Depois abra no navegador o link que aparece
 
 ## Feito por:
-Ever Callisaya Amaru RM563971
+Ever Callisaya Amaru RM563971 \
 link do Repositorio: https://github.com/Ever-Call/CP-WebDev.git
